@@ -1,0 +1,46 @@
+.rules{
+	background: lightyellow;
+	color:green;
+	
+}
+.container{
+	margin-left: 0;
+	text-align: left;
+	width: 60%;
+	border: 1px solid #ccc;
+}
+.random-number{
+	height: 150px;
+	background: green;
+	font-size: 8em;
+	color: white;
+	text-align: center;
+}
+.win-losses{
+	width: 100px;
+	height: 150px;
+	background: lightblue;
+}
+.crystal{
+	width: 100px;
+	height: 100px;
+	cursor: pointer;
+}
+#score{
+	background: green;
+	color:white;
+	text-align: left;
+	/*line-height: 25px;*/
+	font-size: 2em;
+	font-weight: normal;
+}
+.total-score{
+	background: green;
+	height: 100px;
+	font-size: 8em;
+}
+.jumbotron{
+	padding: 15px;
+	background: #483D8B;
+	color: white;
+}
